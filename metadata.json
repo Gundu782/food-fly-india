@@ -1,0 +1,6 @@
+{
+  "name": "FoodFly India",
+  "description": "AI-Powered Food Delivery & Restaurant Management Platform with multi-role dashboards and real-time live tracking",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
